@@ -152,7 +152,7 @@ hr {
     z-index: 1;
     width: 100%;
     min-height: 100vh;
-    background-image: url(../images/header.png);
+    background-image: url(./images/header.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
